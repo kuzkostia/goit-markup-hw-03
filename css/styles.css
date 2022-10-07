@@ -214,10 +214,13 @@ body {
 }
 
 /*------Benefits-list------*/
+
+.benefit-section {
+  padding-bottom: 0px;
+}
 .benefits-list {
   display: flex;
   flex-wrap: wrap;
-  padding-bottom: 0px;
 }
 
 .benefits-list .title {
@@ -245,10 +248,6 @@ body {
 }
 
 /*------Work list------*/
-
-.our-work{
-  padding-top: 0px;
-}
 
 .work-list {
   display: flex;
@@ -288,7 +287,6 @@ body {
 
 .team {
   margin: 0;
-  padding-top: 0px;
   background-color: var(--third-bg-color);
 }
 
