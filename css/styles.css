@@ -382,6 +382,10 @@ body {
 }
 
 .project-title {
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-bottom: 4px;
+
   color: var(--title-color);
   font-weight: 700;
   font-size: 18px;
@@ -390,6 +394,10 @@ body {
 }
 
 .project-type {
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-bottom: 20px;
+
   font-size: 16px;
   line-height: 1.87;
 }
