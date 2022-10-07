@@ -40,6 +40,7 @@ body {
   width: 1200px;
   padding-left: 15px;
   padding-right: 15px;
+  /*outline: 2px solid tomato;*/
 }
 
 .list {
@@ -275,14 +276,17 @@ body {
   color: var(--title-color);
   font-size: 16px;
   line-height: 1.18;
+  text-align: center;
 }
 
 .members-list .position {
   margin-top: 10px;
+  padding-bottom: 30px;
 
   color: var(--primary-color-text);
   font-size: 16px;
   line-height: 1.18;
+  text-align: center;
 }
 
 .team {
