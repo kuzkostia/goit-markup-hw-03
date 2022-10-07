@@ -245,6 +245,11 @@ body {
 }
 
 /*------Work list------*/
+
+.our-work{
+  padding-top: 0px;
+}
+
 .work-list {
   display: flex;
   flex-wrap: wrap;
@@ -283,7 +288,7 @@ body {
 
 .team {
   margin: 0;
-  padding-bottom: 94px;
+  padding-top: 0px;
   background-color: var(--third-bg-color);
 }
 
