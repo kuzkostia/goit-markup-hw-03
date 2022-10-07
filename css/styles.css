@@ -400,7 +400,8 @@ body {
   border: 1 px solid #EEEEEE;
 }
 
-.project-title {
+
+.project-container .project-title {
   padding-left: 24px;
   padding-right: 24px;
   padding-bottom: 4px;
@@ -412,7 +413,7 @@ body {
   letter-spacing: 0.06em;
 }
 
-.project-type {
+.project-container .project-type {
   padding-left: 24px;
   padding-right: 24px;
   padding-bottom: 20px;
